@@ -1,4 +1,4 @@
-# ☁️ Amanda Andrade ☁️
+# ☁️ Amanda Andrade 
 
 **`Salesforce Governance | Trailblazer | Tech Student`**
 
