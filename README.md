@@ -24,7 +24,7 @@ Currently working with access management and org support, while studying **Sales
 
 ---
 
-### 🧰 Salesforce & Tech Stack
+### 🧰 Tech Stack
 <p align="center">
   
   <a href="https://skillicons.dev">
